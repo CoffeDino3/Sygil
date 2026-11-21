@@ -16,6 +16,8 @@ GameObject:
   - component: {fileID: 1436501188262810602}
   - component: {fileID: 138111260009067548}
   - component: {fileID: -1254164419033995691}
+  - component: {fileID: -5964014323353554740}
+  - component: {fileID: -4952963114775638131}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -230,3 +232,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4a059ed8486dd4428a2968dcac3b401, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeath
+--- !u!114 &-5964014323353554740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2952515144451415272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6838a0e1af98d6141901281db6ec32c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SigilCaster
+  sigil: {fileID: 11400000, guid: b1e8bf4a067279d4e8b6c9ce330d78a2, type: 2}
+--- !u!114 &-4952963114775638131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2952515144451415272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362001785ec792743a8dd5f0d2e7f922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerXP
+  pickupRange: 1.3

@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 6571921913484963883}
   - component: {fileID: -6980219086144735503}
   - component: {fileID: 1094840371985098200}
+  - component: {fileID: 6626301514101453888}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -201,3 +202,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyContactDamage
   damage: 1
   cooldown: 0.5
+--- !u!114 &6626301514101453888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2169265961150057551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e9de648019153479dfe7884a061b7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
+  gemPrefab: {fileID: 7367207872822681674, guid: 11953a34d94c3aa4f898fe20fced7109, type: 3}
