@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class XpGem : MonoBehaviour
 {
-    [SerializeField] private int xpValue = 1;
-    [SerializeField] private float magnetSpeed = 8f;
-    [SerializeField] private float collectDistance = 0.3f;
-    private bool attracted;
+    [SerializeField] int xpValue = 1;
+    [SerializeField] float magnetSpeed = 8f;
+    [SerializeField] float collectDistance = 0.3f;
+    bool attracted;
     private void Update()
     {
         PlayerXP player = PlayerXP.Instance;

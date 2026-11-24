@@ -206,6 +206,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 5
+  SpeedMultiplier: 1
 --- !u!114 &138111260009067548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -244,7 +245,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6838a0e1af98d6141901281db6ec32c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SigilCaster
-  sigil: {fileID: 11400000, guid: b1e8bf4a067279d4e8b6c9ce330d78a2, type: 2}
+  primarySigil: {fileID: 11400000, guid: be5f044b7ab244419bb9e406dcbbc939, type: 2}
+  equippedSigils: []
+  DamageMultiplier: 1
+  CooldownMultiplier: 1
+  AreaMultiplier: 1
+  SpeedMultiplier: 1
+  BonusPierce: 0
+  BonusFlags: 0
 --- !u!114 &-4952963114775638131
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,0 +1,31 @@
+{
+    "asset": "5ef886e71cd85b043afed8859645a3f0",
+    "fileName": "01a202cf-28ba-7a44-a43b-d0e606422af2.png",
+    "prompt": "One clean simple 64x64 pixel-art antlered moon moth Familiar sprite, displayed as crisp 16x nearest-neighbor enlargement to 1024x1024. Authentic small-grid 16-bit fantasy art, each logical pixel a flat solid-color square, hard edges and deliberate pixel clusters. Full little moth top-down, head RIGHT abdomen LEFT, two wing pairs spread above and below. Two small crescent antenna-antlers, amber eye, compact teal body, short tapered jade abdomen and two tiny tail tips. Large simple jade wings with one dark teal band and one small amber eyespot per large wing. About 48 logical pixels wingspan; clear margins around all wings and antlers. Limited eight-color navy/teal/jade/mint/cream/amber palette; simple two-tone shading and sparse highlights. No detailed veins, fur strands, frills, intricate markings, painted gradients, blur, antialiasing, dithering or glow. One creature centered on solid neutral grey background. No text, scenery, circle, floating shapes, shadow or particles. Readable elegant little fantasy moth, not a detailed painting shrunk down.",
+    "negativePrompt": "",
+    "model": "gpt-image-1-5",
+    "modelName": "GPT Image 1.5",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

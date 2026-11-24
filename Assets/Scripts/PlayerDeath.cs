@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerDeath : MonoBehaviour
 {
-    private Health health;
-    private void Awake()
+    Health health;
+    void Awake()
     {
         health = GetComponent<Health>();
         health.OnDied += HandleDeath;
@@ -13,7 +13,7 @@ public class PlayerDeath : MonoBehaviour
     {
         health.OnDied -= HandleDeath;
     }
-    private void HandleDeath()
+    void HandleDeath()
     {
         Debug.Log("Game over");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);

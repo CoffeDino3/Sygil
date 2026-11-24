@@ -1,0 +1,41 @@
+{
+    "asset": "5ce07e82b043fc942a6601428d1a1e15",
+    "fileName": "01a202cc-9d80-7f13-8c9d-f9cfd4d3de29.png",
+    "prompt": "Redesign the provided lance as a MUCH SIMPLER authentic 64x64 pixel-art fantasy weapon sprite. Keep only a real long shaft, recognizable silver spearhead, dark grip and small violet detail. Clean pixel-cluster redrawing, NOT applying a pixelation filter to the ornate painting. Remove scrollwork, curling side prongs, gold flourishes, heavy metal fittings, elaborate guard, realistic rendering, large pennant and ornamental complexity. A straight dark charcoal shaft 2-3 logical pixels thick with a short indigo grip left, a modest collar, one simple silver leaf-shaped sharp spearhead right about 12 pixels long and 7 pixels tall, and one narrow violet central highlight. Optional very small plain violet ribbon, no elaborate banner. Exactly 8 opaque palette colors: very dark navy outline, charcoal, dark indigo, medium violet, pale violet, slate grey, medium steel, pale silver. Clean substantial pixel clusters, restrained single-pixel highlights, selective dark outline, no dithering, gradients, antialiasing, bloom or soft shadows. Classic clean 16-bit RPG weapon sprite, not ornate HD painting. Full weapon horizontal from left butt cap to right tip within a 64x64 logical grid, about 52 logical pixels long, generous clear margins. Render the grid enlarged by EXACT nearest-neighbor 16x to 1024x1024: each logical pixel a uniform solid-color 16x16 square aligned to the image grid. One sprite only, centered, transparent background. No person, hands, scene, text, circle, particles or motion trail. It must read clearly as a practical lance and look substantially simpler than the reference.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "5ce07e82b043fc942a6601428d1a1e15",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

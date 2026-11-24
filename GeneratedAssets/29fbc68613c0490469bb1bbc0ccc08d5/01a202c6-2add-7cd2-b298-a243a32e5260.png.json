@@ -1,0 +1,31 @@
+{
+    "asset": "29fbc68613c0490469bb1bbc0ccc08d5",
+    "fileName": "01a202c6-2add-7cd2-b298-a243a32e5260.png",
+    "prompt": "One isolated long curved sabre for a 2D dark-fantasy spell. Entire weapon visible from pommel to tip, hilt LEFT and blade tip RIGHT, horizontal orthographic side profile, no perspective. Illustrated hand-painted fantasy artwork with crisp silhouette, controlled painterly shading, convincing steel and leather, fine sharp highlights instead of bloom. Elegant long slender silver-steel single-edged blade with a graceful upward curve and tapered tip, narrow warm ivory-gold enchanted edge, subtle engraved filigree near blade root. Ornate swept aged-gold knuckle guard, deep teal leather-wrapped grip, small amber pommel jewel. Blade much longer than handle. Real stylish sabre, not a crescent slash or abstract energy shape. Large forms readable at small game scale. Centered, ten percent clear margins all sides. One weapon only, transparent background, no shadow, hands, person, scene, text, circles, particles or motion trails. Preserve shaded metal and visible grip; never a white glowing silhouette.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

@@ -1,5 +1,4 @@
 using UnityEngine;
-
 public class EnemyContactDamage : MonoBehaviour
 {
     [SerializeField] private float damage = 1f;

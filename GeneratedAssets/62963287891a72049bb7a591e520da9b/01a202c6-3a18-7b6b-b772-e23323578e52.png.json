@@ -1,0 +1,31 @@
+{
+    "asset": "62963287891a72049bb7a591e520da9b",
+    "fileName": "01a202c6-3a18-7b6b-b772-e23323578e52.png",
+    "prompt": "One unique ANTLERED MOON MOTH spectral Familiar creature for a 2D dark-fantasy game. Full creature visible including head, both crescent antlers, two pairs of wings, small insect legs, full tapering abdomen and tails. Flat orthographic slightly top-down view, head RIGHT, abdomen LEFT, open wings spread above and below; no perspective. Neutral hovering pose, coherent anatomy for later animation. Illustrated hand-painted fantasy artwork, crisp readable silhouette, controlled painterly shading, organic layered shapes and restrained glow. Elegant mysterious creature, not cute cartoon mascot, orb or geometric shape. Expressive head with small amber eyes, slender crescent antlers/antennae, pale-jade furry thorax, dark subtle insect legs, luminous tapering jade abdomen with two short silk tails. Scalloped moth wings, delicate pale-jade membranes, deep teal veins, cream rim highlights and sparse natural amber eyespots. Recognizable head and large readable wing shapes at small game scale. Single creature centered occupying seventy-five percent of image; ten percent margins around antlers, wings and tails, no cropped anatomy. Transparent background, no shadow, scenery, text, UI, circles, floating geometry, particles or heavy bloom. Preserve distinct face and painted wing shading.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

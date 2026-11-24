@@ -1,0 +1,31 @@
+{
+    "asset": "5ce07e82b043fc942a6601428d1a1e15",
+    "fileName": "01a202c6-2b9a-73e0-b997-ac40c1c4acf1.png",
+    "prompt": "One isolated ornate physical lance for a 2D dark-fantasy spell. Full lance from butt cap to spearhead tip visible, butt cap and grip LEFT, spearhead RIGHT, straight horizontal orthographic side profile, no perspective. Illustrated hand-painted fantasy artwork with crisp readable silhouette, controlled painterly shading, natural metal and leather, sharp highlights instead of bloom. Long slender dark gunmetal shaft, indigo wrapped grip, aged-silver collar, substantial elegant silver-steel leaf-shaped lance head with acute tip, dark central groove with thin restrained violet inlay. Flared silver collar with crescent filigree; small torn muted-violet pennant hangs below shaft behind head. Practical ceremonial lance, not a beam, capsule or magic staff. Restrained gunmetal/indigo/silver palette, tiny aged-gold and violet accents. Large readable forms at small game scale. Centered, ten percent margins all sides. One weapon only, transparent background, no shadow, hands, person, text, scene, circles, particles or trail. Clearly visible dark shaft and shaded metal, never a white glowing silhouette.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

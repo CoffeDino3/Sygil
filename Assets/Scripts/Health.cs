@@ -1,16 +1,15 @@
 using System;
 using UnityEngine;
-
 public class Health : MonoBehaviour
 {
     [SerializeField] private float maxHealth = 10f;
-    [SerializeField] private float currentHealth;
+    [SerializeField] float currentHealth;
     public float Current => currentHealth;
     public float Max => maxHealth;
     public event Action<float, float> OnHealthChanged;
     public event Action OnDied;
-    private bool isDead;
-    private void Awake()
+    bool isDead;
+    void Awake()
     {
         currentHealth = maxHealth;
     }
@@ -26,7 +25,6 @@ public class Health : MonoBehaviour
             OnDied?.Invoke();
         }
     }
-
     public void Heal(float amount)
     {
         if (isDead) return;
